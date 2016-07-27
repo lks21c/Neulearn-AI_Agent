@@ -1,4 +1,4 @@
-package userFunc;
+package com.creamsugardonut;
 
 import Neulearn.Func.Func;
 
